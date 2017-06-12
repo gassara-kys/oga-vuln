@@ -1,4 +1,4 @@
-package com.ogasawara.ogavalnweb.web;
+package com.ogasawara.ogavulnweb.web;
 
 import lombok.Data;
 
